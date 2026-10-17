@@ -1,0 +1,102 @@
+[
+ {
+  "from": "/certifications/",
+  "to": "/about/#certifications"
+ },
+ {
+  "from": "/products/gate-automation/sliding-gate-hardware/",
+  "to": "/products/gate-automation/sliding-gate-automation/"
+ },
+ {
+  "from": "/products/gate-automation/swing-gate-hardware/",
+  "to": "/products/gate-automation/swing-gate-automation/"
+ },
+ {
+  "from": "/products/gate-automation/trackless-bi-folding-gate-hardware/",
+  "to": "/products/gate-automation/trackless-bi-folding-gate-automation/"
+ },
+ {
+  "from": "/products/gate-automation/telescopic-gate-hardware/",
+  "to": "/products/gate-automation/telescopic-gate-automation/"
+ },
+ {
+  "from": "/products/gate-automation/bi-folding-gate-hardware/",
+  "to": "/products/gate-automation/bi-folding-gate-automation/"
+ },
+ {
+  "from": "/products/rfid-access-control/uhf-rfid-handheld-reader/",
+  "to": "/products/rfid-access-control/uhf-rfid-controller/"
+ },
+ {
+  "from": "/telangana/hanamkonda/",
+  "to": "/telangana/hanumakonda/"
+ },
+ {
+  "from": "/telangana/jagtial/",
+  "to": "/telangana/jagitial/"
+ },
+ {
+  "from": "/telangana/mahbubnagar/",
+  "to": "/telangana/mahabubnagar/"
+ },
+ {
+  "from": "/telangana/ramagundam/",
+  "to": "/telangana/peddapalli/"
+ },
+ {
+  "from": "/telangana/bhongir/",
+  "to": "/telangana/yadadri-bhuvanagiri/"
+ },
+ {
+  "from": "/products/high-speed-doors-dock/high-speed-doors/",
+  "to": "/products/high-speed-doors-dock/standard-high-speed-door/"
+ },
+ {
+  "from": "/home/",
+  "to": "/"
+ },
+ {
+  "from": "/index.html",
+  "to": "/"
+ },
+ {
+  "from": "/service/",
+  "to": "/services/"
+ },
+ {
+  "from": "/product/",
+  "to": "/products/"
+ },
+ {
+  "from": "/about-us/",
+  "to": "/about/"
+ },
+ {
+  "from": "/contact-us/",
+  "to": "/contact/"
+ },
+ {
+  "from": "/blogs/",
+  "to": "/blog/"
+ },
+ {
+  "from": "/privacy/",
+  "to": "/privacy-policy/"
+ },
+ {
+  "from": "/terms-and-conditions/",
+  "to": "/terms/"
+ },
+ {
+  "from": "/sitemap/",
+  "to": "/sitemap.xml"
+ },
+ {
+  "from": "/locations/",
+  "to": "/hyderabad/"
+ },
+ {
+  "from": "/areas/",
+  "to": "/hyderabad/"
+ }
+]
